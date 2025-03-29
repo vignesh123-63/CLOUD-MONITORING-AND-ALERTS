@@ -23,8 +23,6 @@ OUTPUT: graphed metrics
 ![Image](https://github.com/user-attachments/assets/53860988-abda-4bb0-a488-d501f7635602)
 
 
-OUTPUT:graphed metrics
-
 
 
 
